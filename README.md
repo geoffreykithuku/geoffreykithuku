@@ -7,11 +7,10 @@
 
 - 🌱 I’m currently learning **React, JavaScript, Bootstrap**
 
-- 💬 Ask me about **React, JavaScript, bootstrap, html & css**
+- 💬 Ask me about **React, JavaScript, bootstrap, html & css, Ruby, Sinatra, Ruby on Rails**
 
 - 📫 How to reach me **mutembeikithuku12@gmail.com**
 
-- ⚡ Fun fact **Introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
