@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Geoffrey</h1>
-<h3 align="center">A passionate software engineering student</h3>
+<h3 align="center">A passionate software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geoffreykithuku&label=Profile%20views&color=0e75b6&style=flat" alt="geoffreykithuku" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nerd_codes" target="blank"><img src="https://img.shields.io/twitter/follow/nerd_codes?logo=twitter&style=for-the-badge" alt="nerd_codes" /></a> </p>
+<p align="left"> <a href="https://twitter.com/TheNightmareDev" target="blank"><img src="https://img.shields.io/twitter/follow/nerd_codes?logo=twitter&style=for-the-badge" alt="TheNightmareDev" /></a> </p>
 
-- 🌱 I’m currently learning **React, JavaScript, Bootstrap**
+- 🌱 I’m currently learning **C, React, JavaScript, Rails**
 
 - 💬 Ask me about **React, JavaScript, bootstrap, html & css, Ruby, Sinatra, Ruby on Rails**
 
@@ -14,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nerd_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nerd_codes" height="30" width="40" /></a>
+<a href="https://twitter.com/TheNightmareDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nerd_codes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/geoffrey kithuku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geoffrey kithuku" height="30" width="40" /></a>
 <a href="https://medium.com/@mutembeikithuku12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mutembeikithuku12" height="30" width="40" /></a>
 </p>
