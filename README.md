@@ -2,9 +2,9 @@
 <h3 align="center">A passionate software developer</h3>
 
 
-<p align="left"> <a href="https://twitter.com/TheNightmareDev" target="blank"><img src="https://img.shields.io/twitter/follow/nerd_codes?logo=twitter&style=for-the-badge" alt="TheNightmareDev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/TheNightmareDev" target="blank"><img src="https://img.shields.io/twitter/follow/TheNightMareDev?logo=twitter&style=for-the-badge" alt="TheNightmareDev" /></a> </p>
 
-- 🌱 I’m currently learning **C, React, JavaScript, Rails**
+- 🌱 I’m currently learning **Python, React, JavaScript**
 
 - 💬 Ask me about **React, JavaScript, bootstrap, html & css, Ruby, Sinatra, Ruby on Rails**
 
